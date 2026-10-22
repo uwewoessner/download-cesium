@@ -1,0 +1,6 @@
+{
+  "name": "Stuttgart 3D Mesh+ OSG Tiled Database Downloader",
+  "description": "Navigate 3d.stuttgart.de, crawl and download all LODs of the 3D Mesh+ dataset, convert b3dm tiles into OpenSceneGraph (.osg/.osgb) format, and package as an OSG PagedLOD tiled database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
